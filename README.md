@@ -16,7 +16,7 @@
 * [Links DevChallenge](#links-devchallenge)
 
 # Desafio
-Página desenvolvida com base nos requisitos do desafio, oferecido pela<a href="https://devchallenge.now.sh/"> DevChallenge</a> e adicionada algumas modificações.
+Página desenvolvida com base nos requisitos do desafio oferecido pela<a href="https://devchallenge.now.sh/"> DevChallenge</a> e adicionada algumas modificações.
 
 ## Features:
 - Edições de nome de usuário, link para o GitHub e avatar.<br>
