@@ -6,7 +6,7 @@
 
 ## Índice
 
-* [Desafio](#desafio)
+* [Descrição](#descrição)
 * [Techs](#techs) 
   * [Cores](#cores)
   * [Modelo](#modelo)
@@ -15,7 +15,7 @@
 * [Links Contato](#links)
 * [Links DevChallenge](#links-devchallenge)
 
-# Desafio
+# Descrição
 Página desenvolvida com base nos requisitos do <a href="https://github.com/devchallenge-io/profile-component">desafio</a> oferecido pela <a href="https://devchallenge.now.sh/">DevChallenge</a> e adicionada algumas implementações.
 
 ## Features:
