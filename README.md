@@ -12,7 +12,7 @@
   * [Modelo](#modelo)
   * [Ícones](#ícones)
   * [Tipo de fonte](#tipo-de-fonte)
-* [Links Contato](#links)
+* [Links Contato](#links-contato)
 * [Links DevChallenge](#links-devchallenge)
 * [Licença](#licença)
 
