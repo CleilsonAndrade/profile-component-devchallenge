@@ -1,12 +1,12 @@
-<br />
-<p align="center">
-  <img src="./design/gifx.gif" alt="Logo" width="1000">
-  <h1 align="center">Perfil de usuário</h1>
-</p>
+<div align="center">
+  <h1>Perfil de usuário</h1>
+  <img src="./design/gifx.gif" alt="Logo" width="800">
+</div>
 
 ## Índice
 
 * [Descrição](#descrição)
+* [Features](#features) 
 * [Techs](#techs) 
   * [Cores](#cores)
   * [Modelo](#modelo)
