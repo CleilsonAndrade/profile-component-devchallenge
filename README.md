@@ -10,7 +10,7 @@
 * [Techs](#techs) 
   * [Cores](#cores)
   * [Modelo](#modelo)
-  * [Icones](#icones)
+  * [Ícones](#ícones)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Links Contato](#links)
 * [Links DevChallenge](#links-devchallenge)
@@ -42,7 +42,7 @@ Página desenvolvida com base nos requisitos do <a href="https://github.com/devc
 ## Modelo:
 - O modelo final para desktop e mobile está disponível na pasta `./design`
 
-## Icones
+## Ícones
 - Para os ícones, foi utilizado a biblioteca Font Awesome
 
 ## Tipo de fonte:
