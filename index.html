@@ -1,9 +1,81 @@
-Seu nome
-@seunome
-Editar
-Projetos
-27
-Estrelas
-302
-Seguidores
-83
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+        integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css">
+    <title>Perfil de um Usuario</title>
+</head>
+
+<body>
+    <main id="content">
+        <div class="contact-box">
+            <div class="contact-content">
+                <img id="picUser" src="https://avatars.githubusercontent.com/u/61972091?v=4" alt="Foto de perfil">
+                <div class="contact-info">
+                    <h1 onclick="Modal.changeProfile()" id="nameUser">Cleilson Andrade</h1>
+                    <a id="gitUser" href="https://github.com/CleilsonAndrade" target="_blank" rel="noopener noreferrer"
+                        title="GitHub">@CleilsonAndrade</a>
+                </div>
+            </div>
+            <a onclick="Modal.openModal()" href="#" id="btn-edit-info" title="Editar perfil">
+                <i class="far fa-edit"></i>
+                <span>Editar</span>
+            </a>
+        </div>
+
+        <div class="cards">
+            <div class="card">
+                <small>Projetos</small>
+                <p>27</p>
+            </div>
+            <div class="card">
+                <small>Estrelas</small>
+                <p>302</p>
+            </div>
+            <div class="card">
+                <small>Seguidores</small>
+                <p>83</p>
+            </div>
+        </div>
+
+    </main>
+
+
+    <div class="modal-overlay">
+        <div class="modal-box">
+            <div class="edit-profile-content">
+                <div class="input-group">
+                    <label for="nameUserNew">Nome: </label>
+                    <input type="text" id="nameUserNew" placeholder="Nome">
+                </div>
+
+                <div class="input-group">
+                    <label for="gitUserNew">GitHub: </label>
+                    <input type="text" id="gitUserNew" placeholder="@username">
+                </div>
+
+                <div class="input-group">
+                    <label for="picUserNew">Avatar: </label>
+                    <input type="url" id="picUserNew" placeholder="https://image.com">
+                </div>
+
+                <div class="button-group">
+                    <button onclick="Modal.closeModal()">Cancelar</button>
+                    <button id="save" onclick="Modal.changeProfile(); Modal.closeModal()">Salvar</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
