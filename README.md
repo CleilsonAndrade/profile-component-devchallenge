@@ -19,7 +19,7 @@
 Página desenvolvida com base nos requisitos do <a href="https://github.com/devchallenge-io/profile-component">desafio</a> oferecido pela <a href="https://devchallenge.now.sh/">DevChallenge</a> e adicionada algumas modificações.
 
 ## Features:
-- Edições de nome de usuário, link para o GitHub e avatar.<br>
+- Edições de nome de usuário, link para o GitHub e avatar<br>
 - Validação de dados<br>
 - Modal<br>
 - Animações<br>
