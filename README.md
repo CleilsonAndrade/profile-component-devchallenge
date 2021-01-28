@@ -16,7 +16,7 @@
 * [Links DevChallenge](#links-devchallenge)
 
 # Desafio
-Página desenvolvida com base nos requisitos do <a href="https://github.com/devchallenge-io/profile-component">desafio</a> oferecido pela <a href="https://devchallenge.now.sh/">DevChallenge</a> e adicionada algumas modificações.
+Página desenvolvida com base nos requisitos do <a target="_blank" rel="noopener noreferrer" href="https://github.com/devchallenge-io/profile-component">desafio</a> oferecido pela <a target="_blank" rel="noopener noreferrer" href="https://devchallenge.now.sh/">DevChallenge</a> e adicionada algumas modificações.
 
 ## Features:
 - Edições de nome de usuário, link para o GitHub e avatar.<br>
