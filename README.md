@@ -40,7 +40,7 @@ Página desenvolvida com base nos requisitos do <a href="https://github.com/devc
 - Yellow: #725200<br>
 
 ## Modelo:
-- O modelo final desktop e mobile está disponível na pasta `./design`
+- O modelo final para desktop e mobile está disponível na pasta `./design`
 
 ## Icones
 - Para os ícones, foi utilizado a biblioteca Font Awesome
