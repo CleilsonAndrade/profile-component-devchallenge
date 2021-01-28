@@ -14,6 +14,7 @@
   * [Tipo de fonte](#tipo-de-fonte)
 * [Links Contato](#links)
 * [Links DevChallenge](#links-devchallenge)
+* [Licença](#licença)
 
 # Descrição
 Página desenvolvida com base nos requisitos do <a href="https://github.com/devchallenge-io/profile-component">desafio</a> oferecido pela <a href="https://devchallenge.now.sh/">DevChallenge</a> e adicionada algumas implementações.
