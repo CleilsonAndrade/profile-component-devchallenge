@@ -53,7 +53,7 @@ Página desenvolvida com base nos requisitos do <a href="https://github.com/devc
 # Instalação:
 Clone este repositório:<br>
 `git clone https://github.com/CleilsonAndrade/profile-component-devchallenge`<br>
-`cd profile-component-devchallenge/`
+`cd ./profile-component-devchallenge`
 
 # Links Contato
 - Linkedin: https://www.linkedin.com/in/cleilson-andrade/<br>
