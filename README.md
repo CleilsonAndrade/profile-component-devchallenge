@@ -9,7 +9,7 @@
 * [Features](#features) 
 * [Techs](#techs) 
   * [Cores](#cores)
-  * [Modelo](#modelo)
+  * [Design](#design)
   * [Ícones](#ícones)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Instalação](#instalação)
@@ -41,7 +41,7 @@ Página desenvolvida com base nos requisitos do <a href="https://github.com/devc
 - Blue: #044A7D<br>
 - Yellow: #725200<br>
 
-## Modelo:
+## Design:
 - O modelo final para desktop e mobile está disponível na pasta `./design`
 
 ## Ícones
