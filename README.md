@@ -8,8 +8,8 @@
 * [Descrição](#descrição)
 * [Features](#features) 
 * [Techs](#techs) 
+* [Design](#design)
   * [Cores](#cores)
-  * [Design](#design)
   * [Ícones](#ícones)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Instalação](#instalação)
@@ -32,6 +32,10 @@ Página desenvolvida com base nos requisitos do <a href="https://github.com/devc
 - CSS
 - JavaScript
 
+# Design:
+- O modelo final para desktop e mobile está disponível na pasta `./design`
+- Imagens disponíveis na pasta `./imgs`<br>
+
 ## Cores:
 - Black: #0C0B0B<br>
 - Gray: #0F0E0E<br>
@@ -40,9 +44,6 @@ Página desenvolvida com base nos requisitos do <a href="https://github.com/devc
 - Green: #046313<br>
 - Blue: #044A7D<br>
 - Yellow: #725200<br>
-
-## Design:
-- O modelo final para desktop e mobile está disponível na pasta `./design`
 
 ## Ícones
 - Para os ícones, foi utilizado a biblioteca Font Awesome
