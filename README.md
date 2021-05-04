@@ -4,6 +4,11 @@
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
+---
+<h3 align="center">
+  <a href="https://cleilsonandrade.github.io/profile-component-devchallenge/">Acessar demonstração</a>
+</h3>
+
 ## Índice
 
 * [Descrição](#descrição)
@@ -19,7 +24,7 @@
 * [Licença](#licença)
 
 # Descrição
-Página desenvolvida com base nos requisitos do [desafio](https://github.com/devchallenge-io/profile-component) oferecido pela [DevChallenge](https://devchallenge.now.sh/) e adicionada algumas implementações.
+Página desenvolvida com base nos requisitos do [desafio](https://github.com/devchallenge-io/profile-component) oferecido pela [**DevChallenge**](https://devchallenge.now.sh/) e adicionada algumas implementações.
 
 ## Features:
 - [x] Edições de nome de usuário, link para o GitHub e avatar<br>
