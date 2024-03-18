@@ -5,9 +5,8 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -20,7 +19,7 @@
 # 📃 <span id="descrição">Descrição</span>
 Página desenvolvida com base nos requisitos do [desafio](https://github.com/devchallenge-io/profile-component) oferecido pela [**DevChallenge**](https://devchallenge.now.sh/) e adicionada algumas implementações.
 
-## Features:
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Edições de nome de usuário, link para o GitHub e avatar<br>
 - [x] Validação de dados<br>
 - [x] Modal<br>
@@ -66,7 +65,6 @@ Página desenvolvida com base nos requisitos do [desafio](https://github.com/dev
 **Instagram:** https://www.instagram.com/devchallenge/<br>
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
