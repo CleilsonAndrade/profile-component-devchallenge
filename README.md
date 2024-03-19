@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Perfil de usuário</h1>
-  <p>Perfil de um usuário simples</p>
+  <p>Perfil de um usuário simples, visando estudos sobre CSS.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
