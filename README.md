@@ -45,7 +45,7 @@ Página desenvolvida com base nos requisitos do [desafio](https://github.com/dev
   * #725200<br>
 
 - <span id="fontes">Fontes<br></span>
-  * Rubik
+  * Rubik, sans-serif
 
 - <span id="icones">Ícones<br></span>
   * Font Awesome
@@ -53,7 +53,7 @@ Página desenvolvida com base nos requisitos do [desafio](https://github.com/dev
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/profile-component-devchallenge
+  $ git clone https://github.com/CleilsonAndrade/profile-component-devchallenge.git
   $ cd ./profile-component-devchallenge
 ```
 
