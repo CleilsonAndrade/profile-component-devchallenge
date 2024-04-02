@@ -33,7 +33,6 @@ Página desenvolvida com base nos requisitos do [desafio](https://github.com/dev
 
 # 🎨 <span id="design">Design</span>
 - O modelo final para desktop e mobile está disponível na pasta `./design`
-- Imagens disponíveis na pasta `./imgs`<br>
 
 - <span id="cores">Cores<br></span>
   * #0C0B0B<br>
